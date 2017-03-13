@@ -12,7 +12,8 @@ UCLASS()
 class SWITCHJUMP_API ASwitchJumpGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
-	
+		ASwitchJumpGameModeBase(const FObjectInitializer& ObjectInitializer);
+		virtual void StartPlay() override;
 	
 	
 	

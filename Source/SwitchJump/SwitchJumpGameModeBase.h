@@ -3,7 +3,9 @@
 #pragma once
 
 #include "GameFramework/GameModeBase.h"
+#include "SitchJumpCharacter.h"
 #include "SwitchJumpGameModeBase.generated.h"
+
 
 /**
  * 

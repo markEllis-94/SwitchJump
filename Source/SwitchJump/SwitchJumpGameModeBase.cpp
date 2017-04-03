@@ -6,7 +6,6 @@
 ASwitchJumpGameModeBase::ASwitchJumpGameModeBase(const FObjectInitializer& ObjectInitializer)
 	: Super(ObjectInitializer)
 {
-
 }
 
 void ASwitchJumpGameModeBase::StartPlay()
